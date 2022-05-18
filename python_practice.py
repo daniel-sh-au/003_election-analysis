@@ -49,7 +49,7 @@
 #                {"county":"Jefferson", "registered_voters": 432438}]
 #for county_dict in voting_data:
 #    print(str(county_dict['county']) + " county has " + str(county_dict['registered_voters']) + " registered voters.")
-#    print(f"{county_dict['county']} county has {county_dict['registered_voters']:,.2f} registered voters.")
+#    print(f"{county_dict['county']} county has {county_dict['registered_voters']:,.2f} registered voters."")
 
 # Ex. datetime
 #import datetime as dt
