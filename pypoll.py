@@ -10,7 +10,7 @@ import os
 import csv
 
 # Assign a variable to load a file from a path.
-file_to_load = os.path.join("resources", "election_results.csv")
+file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save a file from a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
